@@ -1,0 +1,8 @@
+{
+  "name": "UltraZoom 100X Pro",
+  "description": "A professional-grade camera app featuring hybrid 100x zoom, AI object detection, document scanning with OpenCV, and video recording.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
